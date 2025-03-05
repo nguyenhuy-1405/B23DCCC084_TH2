@@ -42,6 +42,18 @@
 		icon: 'OrderedListOutlined',
 		component: './TodoList',
 	},
+	{
+		path: '/oan-tu-ti',
+		name: 'Trò chơi Oẳn Tù Tì',
+		icon: 'gold',
+		component: './OanTuTi',
+	},
+	{
+		path: '/new-menu',
+		name: 'thực hành 2',
+		icon: 'MenuOutlined',
+		component: './NewMenu',
+	},
 
 	// DANH MUC HE THONG
 	// {
